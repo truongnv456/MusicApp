@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- bottom_navigation_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search"
+        android:title="Search" />
+    <item
+        android:id="@+id/action_music"
+        android:icon="@drawable/ic_music"
+        android:title="Music" />
+    <item
+        android:id="@+id/action_backstack"
+        android:icon="@drawable/ic_backstack"
+        android:title="Backstack" />
+    <item
+        android:id="@+id/action_person"
+        android:icon="@drawable/ic_person"
+        android:title="Person" />
+</menu>
